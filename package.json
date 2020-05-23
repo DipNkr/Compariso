@@ -1,0 +1,35 @@
+{
+  "name": "pythonicWay",
+  "version": "1.0.0",
+  "description": "Price Negotiator A bot for comparising price in whatsapp",
+  "main": "index.js",
+  "engines": {
+    "node": "10.9.0"
+  },
+  "scripts": {
+    "dev": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GAUTAMRAJU15/Compariso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GAUTAMRAJU15/Compariso/issues"
+  },
+  "homepage": "https://github.com/GAUTAMRAJU15/Compariso#readme",
+  "dependencies": {
+    "apac": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "json-stringify-safe": "^5.0.1",
+    "twilio": "^3.24.0",
+    "xml2json": "^0.11.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0"
+  }
+}
